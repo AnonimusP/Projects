@@ -1,0 +1,18 @@
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.deps.json
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.runtimeconfig.json
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.runtimeconfig.dev.json
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.dll
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.pdb
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.csprojResolveAssemblyReference.cache
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.AssemblyInfo.cs
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.dll
+c:\users\komputer\documents\visual studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.pdb
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.deps.json
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.runtimeconfig.json
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.dll
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\bin\Debug\netcoreapp1.1\ConsoleApp11.pdb
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.csprojResolveAssemblyReference.cache
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.dll
+C:\Users\Komputer\Desktop\Wymiarywalcaikola\ConsoleApp11\obj\Debug\netcoreapp1.1\ConsoleApp11.pdb

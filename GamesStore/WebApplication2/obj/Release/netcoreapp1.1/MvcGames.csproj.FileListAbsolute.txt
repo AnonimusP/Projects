@@ -1,0 +1,8 @@
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Release\netcoreapp1.1\MvcGames.deps.json
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Release\netcoreapp1.1\MvcGames.runtimeconfig.json
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Release\netcoreapp1.1\MvcGames.runtimeconfig.dev.json
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Release\netcoreapp1.1\MvcGames.dll
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Release\netcoreapp1.1\MvcGames.pdb
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Release\netcoreapp1.1\MvcGames.AssemblyInfo.cs
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Release\netcoreapp1.1\MvcGames.dll
+C:\Users\Komputer\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Release\netcoreapp1.1\MvcGames.pdb

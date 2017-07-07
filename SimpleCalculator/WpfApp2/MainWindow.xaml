@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="205" Width="238.5">
+    <Grid Margin="10,0,0,0">
+        <TextBox x:Name="txtInsert" HorizontalAlignment="Left" Height="22" Margin="0,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+        <Button x:Name="btnEqual" Content="=" HorizontalAlignment="Left" Height="27" Margin="181,137,0,0" VerticalAlignment="Top" Width="29" Click="btnEqual_Click"/>
+        <Button x:Name="btnComma" Content="." HorizontalAlignment="Left" Height="27" Margin="148,137,0,0" VerticalAlignment="Top" Width="28" Click="btnComma_Click"/>
+        <Button x:Name="btnPlus" Content="+" HorizontalAlignment="Left" Height="27" Margin="148,105,0,0" VerticalAlignment="Top" Width="28" Click="btnPlus_Click" RenderTransformOrigin="1.214,0.556"/>
+        <Button x:Name="btnMinus" Content="-" HorizontalAlignment="Left" Height="27" Margin="148,73,0,0" VerticalAlignment="Top" Width="28" Click="btnMinus_Click"/>
+        <Button x:Name="btnDivide" Content="/" HorizontalAlignment="Left" Height="27" Margin="181,73,0,0" VerticalAlignment="Top" Width="29" Click="btnDivide_Click"/>
+        <Button x:Name="btnMulti" Content="*" HorizontalAlignment="Left" Height="27" Margin="181,105,0,0" VerticalAlignment="Top" Width="29" Click="btnMulti_Click"/>
+        <Label x:Name="lblChar" Content="" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="210"/>
+        <Button x:Name="click_one" Content="1" HorizontalAlignment="Left" Height="27" Margin="2,73,0,0" VerticalAlignment="Top" Width="28" Click="click_one_Click" />
+        <Button x:Name="click_two" Content="2" HorizontalAlignment="Left" Height="27" Margin="35,73,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click" />
+        <Button x:Name="click_three" Content="3" HorizontalAlignment="Left" Height="27" Margin="69,73,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click" />
+        <Button x:Name="click_four" Content="4" HorizontalAlignment="Left" Height="27" Margin="2,105,0,0" VerticalAlignment="Top" Width="28" Click="click_one_Click" />
+        <Button x:Name="click_five" Content="5" HorizontalAlignment="Left" Height="27" Margin="35,105,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click" />
+        <Button x:Name="click_six" Content="6" HorizontalAlignment="Left" Height="27" Margin="69,105,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click"/>
+        <Button x:Name="click_seven" Content="7" HorizontalAlignment="Left" Height="27" Margin="2,137,0,0" VerticalAlignment="Top" Width="28" Click="click_one_Click"/>
+        <Button x:Name="click_eight" Content="8" HorizontalAlignment="Left" Height="27" Margin="35,137,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click"/>
+        <Button x:Name="click_nine" Content="9" HorizontalAlignment="Left" Height="27" Margin="69,137,0,0" VerticalAlignment="Top" Width="29" Click="click_one_Click"/>
+        <Button x:Name="click_frac" Content="x!" HorizontalAlignment="Left" Height="27" Margin="116,73,0,0" VerticalAlignment="Top" Width="27" Click="click_frac_Click" />
+        <Button x:Name="click_pow" Content="x^y" HorizontalAlignment="Left" Height="27" Margin="116,105,0,0" VerticalAlignment="Top" Width="27" Click="click_pow_Click"/>
+        <Button x:Name="click_pow2" Content="x^2" HorizontalAlignment="Left" Height="27" Margin="116,137,0,0" VerticalAlignment="Top" Width="27"/>
+    </Grid>
+</Window>
