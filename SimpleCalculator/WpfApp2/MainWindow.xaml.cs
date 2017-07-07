@@ -87,12 +87,6 @@ namespace WpfApp2
             lblChar.Content += Convert.ToString(number1)+ Convert.ToString(point);
             addbtnclick = true;
         }
-
-        private void btnComma_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
-
         private void btnDivide_Click(object sender, RoutedEventArgs e)
         {
             number1 = Convert.ToDouble(txtInsert.Text);
@@ -114,7 +108,7 @@ namespace WpfApp2
         private void click_one_Click(object sender, RoutedEventArgs e)
         {
             Button but = (Button) sender;
-            txtInsert.Text = but.Content.ToString();
+            txtInsert.Text += but.Content.ToString();
         }
 
         private void click_frac_Click(object sender, RoutedEventArgs e)

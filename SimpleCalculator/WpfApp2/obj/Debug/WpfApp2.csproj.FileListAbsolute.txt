@@ -26,3 +26,17 @@ C:\Users\Komputer\Desktop\projekty github\SimpleCalculator\WpfApp2\obj\Debug\Wpf
 C:\Users\Komputer\Desktop\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
 C:\Users\Komputer\Desktop\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.exe
 C:\Users\Komputer\Desktop\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Komputer\projekty github\SimpleCalculator\WpfApp2\obj\Debug\WpfApp2.pdb
