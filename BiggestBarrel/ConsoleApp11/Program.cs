@@ -30,13 +30,7 @@ namespace ConsoleApplication7
         {
             return 2 * 3.14 * promien;
         }        
-        public virtual void Pokaz()
-        {
-            Console.WriteLine("Parametry walca: ");
-            Console.WriteLine(promien);
-            Console.WriteLine(Pole_powierzchni());
-            Console.WriteLine(Dlugosc_obwodu());
-        }
+
     }
     class Walec : Kolo,IWalec
     {
@@ -59,17 +53,17 @@ namespace ConsoleApplication7
         {
             return promien * promien * wysokosc * 3.14;
         }
-        public void Najwiekszy()
+        public string Najwiekszy()
         {
-            Console.WriteLine("Najwiekszy walec ma wymiary " + maxr + " x " + maxh + " Pole powierzchni: "+ 2*3.14*((maxr*maxr)+(maxr*maxh))+" a objetosc "+maxr*maxr*maxh*3.14);
+            return "Najwiekszy walec ma wymiary " + maxr + " x " + maxh + " Pole powierzchni: "+ 2*3.14*((maxr*maxr)+(maxr*maxh))+" a objetosc "+maxr*maxr*maxh*3.14;
         }
-        public override void Pokaz()
+        public void Pokaz()
         {
             Console.WriteLine("Parametry walca");
-            Console.WriteLine(promien);
-            Console.WriteLine(wysokosc);
-            Console.WriteLine(Pole_powierzchni());
-            Console.WriteLine(Objetosc());
+            Console.WriteLine("Promien: "+promien);
+            Console.WriteLine("Wysokosc: "+wysokosc);
+            Console.WriteLine("Pole powierzchni: "+Pole_powierzchni());
+            Console.WriteLine("Objetosc: "+Objetosc());
         }
     }
     class Program
@@ -78,6 +72,7 @@ namespace ConsoleApplication7
         {
             int n;
             double r,h;
+            string max="";
             Console.WriteLine("Podaj ilosc obiektow jaka chcesz wprowadzic");
             n = int.Parse(Console.ReadLine());
             //Console.WriteLine("Podaj wysokosc walca");
@@ -95,8 +90,9 @@ namespace ConsoleApplication7
                 tab[i] = new Walec(h);
                 h = 0;
                 tab[i].Pokaz();
-                tab[i].Najwiekszy();
+                max = tab[i].Najwiekszy();
             }
+            Console.WriteLine(max);
             Console.ReadKey();
         }
     }
