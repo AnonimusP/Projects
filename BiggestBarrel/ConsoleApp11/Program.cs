@@ -29,10 +29,10 @@ namespace ConsoleApplication7
         public virtual double Dlugosc_obwodu()
         {
             return 2 * 3.14 * promien;
-        }        
+        }
 
     }
-    class Walec : Kolo,IWalec
+    class Walec : Kolo, IWalec
     {
         public double wysokosc;
         static public double maxh;
@@ -55,15 +55,15 @@ namespace ConsoleApplication7
         }
         public string Najwiekszy()
         {
-            return "Najwiekszy walec ma wymiary " + maxr + " x " + maxh + " Pole powierzchni: "+ 2*3.14*((maxr*maxr)+(maxr*maxh))+" a objetosc "+maxr*maxr*maxh*3.14;
+            return "Najwiekszy walec ma wymiary " + maxr + " x " + maxh + " Pole powierzchni: " + 2 * 3.14 * ((maxr * maxr) + (maxr * maxh)) + " a objetosc " + maxr * maxr * maxh * 3.14;
         }
         public void Pokaz()
         {
             Console.WriteLine("Parametry walca");
-            Console.WriteLine("Promien: "+promien);
-            Console.WriteLine("Wysokosc: "+wysokosc);
-            Console.WriteLine("Pole powierzchni: "+Pole_powierzchni());
-            Console.WriteLine("Objetosc: "+Objetosc());
+            Console.WriteLine("Promien: " + promien);
+            Console.WriteLine("Wysokosc: " + wysokosc);
+            Console.WriteLine("Pole powierzchni: " + Pole_powierzchni());
+            Console.WriteLine("Objetosc: " + Objetosc());
         }
     }
     class Program
@@ -71,12 +71,10 @@ namespace ConsoleApplication7
         static void Main(string[] args)
         {
             int n;
-            double r,h;
-            string max="";
+            double r, h;
+            string max = "";
             Console.WriteLine("Podaj ilosc obiektow jaka chcesz wprowadzic");
             n = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Podaj wysokosc walca");
-            //h = double.Parse(Console.ReadLine());
             Walec[] tab = new Walec[n];
             Kolo[] tab1 = new Kolo[n];
             for (int i = 0; i < n; i++)
@@ -97,4 +95,3 @@ namespace ConsoleApplication7
         }
     }
 }
-
