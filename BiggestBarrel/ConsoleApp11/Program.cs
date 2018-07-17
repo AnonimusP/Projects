@@ -89,11 +89,14 @@ namespace ConsoleApplication7
                 Console.WriteLine("Podaj promien kola jaki chcesz wprowadzic");
                 r = double.Parse(Console.ReadLine());
                 tab1[i] = new Kolo(r);
+                r = 0;
                 Console.WriteLine("Podaj wysokosc walca jaki chcesz wprowadzic");
                 h = double.Parse(Console.ReadLine());
                 tab[i] = new Walec(h);
+                h = 0;
+                tab[i].Pokaz();
+                tab[i].Najwiekszy();
             }
-            foreach (Walec w in tab) { w.Pokaz(); w.Najwiekszy(); }
             Console.ReadKey();
         }
     }
